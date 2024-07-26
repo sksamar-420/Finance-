@@ -12,3 +12,4 @@ Then The message will send them
 
 
 We can send photos to the peoples.
+driver.get;
