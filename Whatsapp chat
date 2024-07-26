@@ -9,3 +9,6 @@ Scanario: Group message.
 Given Open whatsapp select a you want messege to send.
 When Tap Share button click five people whou you want and send it them.
 Then The message will send them 
+
+
+We can send photos to the peoples.
