@@ -3,4 +3,9 @@ Feature: New Chat funtion.
 Sceanrio: New Chat funtion adding in whatsapp.
 Given Open whatsapp and Chat funcion showing to chat any one in your contact.
 When Chat an invidual person type in text box and send it to the person using send button.
-Then The message will sended to the persion succesfully
+Then The message will sended to the persion succesfully.
+
+Scanario: Group message.
+Given Open whatsapp select a you want messege to send.
+When Tap Share button click five people whou you want and send it them.
+Then The message will send them 
